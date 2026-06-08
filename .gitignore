@@ -25,8 +25,8 @@ ENV/
 *.env
 secrets.py
 
-# Streamlit
-.streamlit/
+# Streamlit — keep config.toml but ignore secrets
+.streamlit/secrets.toml
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
