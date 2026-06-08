@@ -1,6 +1,16 @@
-# 📊 Indian Options Chain Dashboard
+# 📊 NSE Options Chain Analysis Dashboard
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://nse-options-dashboard-6drh.onrender.com/)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.35-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![NSE API](https://img.shields.io/badge/Data-NSE%20API-0066CC?style=for-the-badge)](https://nseindia.com)
 
 A professional **Streamlit dashboard** for analyzing Indian stock index options chains with real-time sentiment analysis, support/resistance identification, and comprehensive trader positioning metrics.
+
+> 🌐 **Live App**: [https://nse-options-dashboard-6drh.onrender.com/](https://nse-options-dashboard-6drh.onrender.com/)  
+> ⚠️ Hosted on Render free tier — may take **~30 seconds to wake up** on first visit.
+
+---
 
 ## ✨ Features
 
