@@ -1,0 +1,10 @@
+streamlit==1.35.0
+plotly==5.18.0
+pandas==2.1.4
+numpy==1.24.3
+scipy==1.11.4
+requests==2.31.0
+beautifulsoup4==4.12.2
+streamlit-option-menu
+streamlit-aggrid
+streamlit-autorefresh
